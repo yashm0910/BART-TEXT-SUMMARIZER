@@ -1,0 +1,9 @@
+streamlit>=1.35
+torch>=2.1
+transformers>=4.41,<5
+datasets>=2.18
+accelerate>=0.30
+rouge-score
+nltk
+numpy
+pandas
